@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**SMPSERVER95/SMPSERVER95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**XingXG/XingXG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
